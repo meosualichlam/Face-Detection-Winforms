@@ -1,0 +1,97 @@
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.exe
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.deps.json
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.runtimeconfig.json
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.pdb
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.AssemblyReference.cache
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.GenerateResource.cache
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.AssemblyInfoInputs.cache
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.AssemblyInfo.cs
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.CoreCompileInputs.cache
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegc.3FB5957E.Up2Date
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.dll
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\refint\FaceRegconizer.dll
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.pdb
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.genruntimeconfig.cache
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\ref\FaceRegconizer.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\FaceRegconizer.dll.config
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\source\FaceRegconizer\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Properties.Resources.resources
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+D:\source\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.AssemblyReference.cache
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Properties.Resources.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.GenerateResource.cache
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.AssemblyInfoInputs.cache
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.AssemblyInfo.cs
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.csproj.CoreCompileInputs.cache
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.dll
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\refint\FaceRegconizer.dll
+C:\Users\Le Quynh\Documents\Zalo Received Files\FaceRegconizer\FaceRegconizer\obj\Debug\net8.0-windows\FaceRegconizer.pdb

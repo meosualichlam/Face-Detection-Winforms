@@ -1,0 +1,495 @@
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.sourcelink.json
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.exe
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.dll.config
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.deps.json
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.runtimeconfig.json
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceReco.56491754.Up2Date
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\refint\FaceRecognizer.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\ref\FaceRecognizer.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Admin\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.exe
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.dll.config
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.deps.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.runtimeconfig.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.AssemblyReference.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.Properties.Resources.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.GenerateResource.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfoInputs.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfo.cs
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.sourcelink.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceReco.56491754.Up2Date
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\refint\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\FaceRecognizer.genruntimeconfig.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents\obj\Debug\net8.0-windows\ref\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.exe
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.dll.config
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.deps.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.runtimeconfig.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.csproj.AssemblyReference.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.Properties.Resources.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.csproj.GenerateResource.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfoInputs.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfo.cs
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.sourcelink.json
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceReco.56491754.Up2Date
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\refint\FaceRecognizer.dll
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.pdb
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\FaceRecognizer.genruntimeconfig.cache
+C:\Users\Le Quynh\Source\Repos\FaceRecognizerStudents5\obj\Debug\net8.0-windows\ref\FaceRecognizer.dll
+C:\Users\Admin\source\repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\Admin\source\repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\Admin\source\repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\source\repos\FaceRecognizerStudents\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.exe
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.dll.config
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.deps.json
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.runtimeconfig.json
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\FaceRecognizer.pdb
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Emgu.CV.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\EPPlus.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Office.Interop.Excel.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\NEU - FaceDetectionForAttendance\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.csproj.AssemblyReference.cache
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRegconizer.CongratulationMessage.resources
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRegconizer.FrmPrincipal.resources
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.Properties.Resources.resources
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry.resources
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRegconizer.Student_Entry_Record.resources
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.csproj.GenerateResource.cache
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfoInputs.cache
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.AssemblyInfo.cs
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.csproj.CoreCompileInputs.cache
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceReco.56491754.Up2Date
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.dll
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\refint\FaceRecognizer.dll
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.pdb
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\FaceRecognizer.genruntimeconfig.cache
+E:\NEU - FaceDetectionForAttendance\obj\Debug\net8.0-windows\ref\FaceRecognizer.dll

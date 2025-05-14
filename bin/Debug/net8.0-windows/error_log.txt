@@ -1,0 +1,10 @@
+5/4/2025 9:55:00 AM - System.InvalidOperationException: Invalid attempt to read when no data is present.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(String name)
+   at FaceRegconizer.FrmPrincipal.FrameGrabber(Object sender, EventArgs e) in C:\Users\Admin\Source\Repos\FaceRecognizerStudents\MainForm.cs:line 245
+5/4/2025 9:59:34 AM - System.InvalidOperationException: Invalid attempt to read when no data is present.
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at FaceRegconizer.FrmPrincipal.FrameGrabber(Object sender, EventArgs e) in C:\Users\Admin\Source\Repos\FaceRecognizerStudents\MainForm.cs:line 245
